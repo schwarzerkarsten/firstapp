@@ -1,0 +1,3 @@
+MODULE_NAME=hello
+VARIABLE_NAME=app
+APP_MODULE=hello:app
