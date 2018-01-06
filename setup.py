@@ -5,5 +5,5 @@ setup(
         version = "0.1",
         description = "My first os app",
         packages = find_packages(),
-        install_requires = ["gunicorn"],
+        install_requires = ["gunicorn","flask"],
         )
